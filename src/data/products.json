@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic burger",
+      "description": "If desired, you can buy a burger or burger with a set of side dishes, which includes: French fries and 'Cole Slough' salad.",
+      "additionals": [ null ],
+      "image": "classic-burger.jpg",
+      "ingridients": "tomato, pickled cucumber, lettuce leaves, aioli sauce, ketchup, cheese, red onion, beef cutlet",
+      "price": 125.00
+    },
+    {
+        "id": 2,
+        "name": "Chicken stripes",
+        "description": "Order Snack 'Chicken stripes' with honey-mustard sauce. It is hearty, tasty, and also a healty dish made from the freshest products",
+        "additionals": [ null ],
+        "image": "chiken_stripes.jpg",
+        "ingridients": " chicken stripes, honey-mustard sauce ",
+        "price": 108.00
+      },
+      {
+        "id": 3,
+        "name": "Fries&Sauce",
+        "description": "Order Snack 'Fries&Sauce' it is hearty, tasty, and also a healty dish made from the freshest products",
+        "additionals": [ null ],
+        "image": "fries_add.jpg",
+        "ingridients": "fries, ketchup",
+        "price": 45.00
+      },
+      {
+        "id": 4,
+        "name": "Chicken burger",
+        "description": "If desired, you can buy a burger or burger with a set of side dishes, which includes: French fries and 'Cole Slough' salad.",
+        "additionals": [ 
+            { "name": "bulgarian pepper", "price": 22.00},
+            { "name": "onion", "price": 5.00},
+            { "name": "nachos", "price": 12.00},
+            { "name": "pickled cucumber", "price": 9.00},
+            { "name": "chedar cheese", "price": 18.00},
+            { "name": "boiled egg", "price": 11.00}
+        ],
+        "image": "chicken_burger.jpg",
+        "ingridients": "tomato, iceberg salad, honey-mustard sauce, cucumber, chicken fillet",
+        "price": 95.00
+      },
+      {
+        "id": 5,
+        "name": "Paper stake burger",
+        "description": "If desired, you can buy a burger or burger with a set of side dishes, which includes: French fries and 'Cole Slough' salad.",
+        "additionals": [
+        ],
+        "image": "pepper_stake_burger.jpg",
+        "ingridients": "Bulgarian pepper, tomato, lettuce, creamy mustard sauce, beef tenderloin, peppers mixture",
+        "price": 205.00
+      },
+      {
+        "id": 6,
+        "name": "Turkey burger",
+        "description": "If desired, you can buy a burger or burger with a set of side dishes, which includes: French fries and 'Cole Slough' salad.",
+        "additionals": [
+        ],
+        "image": "turkey_burger.jpg",
+        "ingridients": "Tomato, Egg, Salad, Caesar Sauce, Cucumber, Grilled Turkey, Crispy Bacon",
+        "price": 135.00
+      }
+  ]
+}
